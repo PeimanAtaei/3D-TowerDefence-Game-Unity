@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: c1119f35f3c69a342a43589ea7048b56
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ankle_L
+    100004: Ankle_R
+    100006: armor_L
+    100008: armor_R
+    100010: Cabin_M
+    100012: cannon_barrel_L
+    100014: cannon_barrel_R
+    100016: Finger_01_L
+    100018: Finger_01_R
+    100020: Finger_02_L
+    100022: Finger_02_R
+    100024: Finger_03_L
+    100026: Finger_03_R
+    100028: Finger_04_L
+    100030: Finger_04_R
+    100032: Finger_05_L
+    100034: Finger_05_R
+    100036: Finger_06_L
+    100038: Finger_06_R
+    100040: gun_01_L
+    100042: gun_01_R
+    100044: gun_02_L
+    100046: gun_02_R
+    100048: Hip_01_L
+    100050: Hip_01_R
+    100052: Hip_02_L
+    100054: Hip_02_R
+    100056: Hip_03_L
+    100058: Hip_03_R
+    100060: Knee_L
+    100062: Knee_R
+    100064: root
+    100066: Root_M
+    400000: //RootNode
+    400002: Ankle_L
+    400004: Ankle_R
+    400006: armor_L
+    400008: armor_R
+    400010: Cabin_M
+    400012: cannon_barrel_L
+    400014: cannon_barrel_R
+    400016: Finger_01_L
+    400018: Finger_01_R
+    400020: Finger_02_L
+    400022: Finger_02_R
+    400024: Finger_03_L
+    400026: Finger_03_R
+    400028: Finger_04_L
+    400030: Finger_04_R
+    400032: Finger_05_L
+    400034: Finger_05_R
+    400036: Finger_06_L
+    400038: Finger_06_R
+    400040: gun_01_L
+    400042: gun_01_R
+    400044: gun_02_L
+    400046: gun_02_R
+    400048: Hip_01_L
+    400050: Hip_01_R
+    400052: Hip_02_L
+    400054: Hip_02_R
+    400056: Hip_03_L
+    400058: Hip_03_R
+    400060: Knee_L
+    400062: Knee_R
+    400064: root
+    400066: Root_M
+    7400000: Shoot
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

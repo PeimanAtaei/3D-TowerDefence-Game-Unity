@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 186a5c3a84e854c4db254b262a19143b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: backWheel_L
+    100002: backWheel_R
+    100004: Frame
+    100006: frontWheel_L
+    100008: frontWheel_R
+    100010: Gun_01_M
+    100012: Gun_02_M
+    100014: LOD_0
+    100016: LOD_1
+    100018: LOD_2
+    100020: LOD_3
+    100022: LOD_Group_1
+    100024: root
+    100026: //RootNode
+    100028: Tank__Window
+    100030: Tank__Window 1
+    100032: Tank__Window 2
+    100034: Tank__Window 3
+    100036: Tank_Box
+    100038: Tank_Box 1
+    100040: Tank_Box 2
+    100042: Tank_Box 3
+    100044: Tank_chassis
+    100046: Tank_chassis 1
+    100048: Tank_chassis 2
+    100050: Tank_chassis 3
+    100052: Tank_chassis1
+    100054: Tank_chassis1 1
+    100056: Tank_chassis1 2
+    100058: Tank_chassis1 3
+    100060: Tank_chassis2
+    100062: Tank_chassis2 1
+    100064: Tank_chassis2 2
+    100066: Tank_chassis2 3
+    100068: Tank_chassis3
+    100070: Tank_chassis3 1
+    100072: Tank_chassis3 2
+    100074: Tank_chassis3 3
+    100076: Tank_frame
+    100078: Tank_frame 1
+    100080: Tank_frame 2
+    100082: Tank_frame 3
+    100084: Tank_Gun
+    100086: Tank_Gun 1
+    100088: Tank_Gun 2
+    100090: Tank_Gun 3
+    100092: Tank_Head
+    100094: Tank_Head 1
+    100096: Tank_Head 2
+    100098: Tank_Head 3
+    100100: Tank_headlights
+    100102: Tank_headlights 1
+    100104: Tank_headlights 2
+    100106: Tank_headlights 3
+    100108: Tank_Turbo
+    100110: Tank_Turbo 1
+    100112: Tank_Turbo 2
+    100114: Tank_Turbo 3
+    100116: Tank_wheel
+    100118: Tank_wheel 1
+    100120: Tank_wheel 2
+    100122: Tank_wheel 3
+    100124: Tank_wheel1
+    100126: Tank_wheel1 1
+    100128: Tank_wheel1 2
+    100130: Tank_wheel1 3
+    100132: Tank_wheel2
+    100134: Tank_wheel2 1
+    100136: Tank_wheel2 2
+    100138: Tank_wheel2 3
+    100140: Tank_wheel3
+    100142: Tank_wheel3 1
+    100144: Tank_wheel3 2
+    100146: Tank_wheel3 3
+    100148: Tank_Wing
+    100150: Tank_Wing 1
+    100152: Tank_Wing 2
+    100154: Tank_Wing 3
+    100156: TankTower
+    400000: backWheel_L
+    400002: backWheel_R
+    400004: Frame
+    400006: frontWheel_L
+    400008: frontWheel_R
+    400010: Gun_01_M
+    400012: Gun_02_M
+    400014: LOD_0
+    400016: LOD_1
+    400018: LOD_2
+    400020: LOD_3
+    400022: LOD_Group_1
+    400024: root
+    400026: //RootNode
+    400028: Tank__Window
+    400030: Tank__Window 1
+    400032: Tank__Window 2
+    400034: Tank__Window 3
+    400036: Tank_Box
+    400038: Tank_Box 1
+    400040: Tank_Box 2
+    400042: Tank_Box 3
+    400044: Tank_chassis
+    400046: Tank_chassis 1
+    400048: Tank_chassis 2
+    400050: Tank_chassis 3
+    400052: Tank_chassis1
+    400054: Tank_chassis1 1
+    400056: Tank_chassis1 2
+    400058: Tank_chassis1 3
+    400060: Tank_chassis2
+    400062: Tank_chassis2 1
+    400064: Tank_chassis2 2
+    400066: Tank_chassis2 3
+    400068: Tank_chassis3
+    400070: Tank_chassis3 1
+    400072: Tank_chassis3 2
+    400074: Tank_chassis3 3
+    400076: Tank_frame
+    400078: Tank_frame 1
+    400080: Tank_frame 2
+    400082: Tank_frame 3
+    400084: Tank_Gun
+    400086: Tank_Gun 1
+    400088: Tank_Gun 2
+    400090: Tank_Gun 3
+    400092: Tank_Head
+    400094: Tank_Head 1
+    400096: Tank_Head 2
+    400098: Tank_Head 3
+    400100: Tank_headlights
+    400102: Tank_headlights 1
+    400104: Tank_headlights 2
+    400106: Tank_headlights 3
+    400108: Tank_Turbo
+    400110: Tank_Turbo 1
+    400112: Tank_Turbo 2
+    400114: Tank_Turbo 3
+    400116: Tank_wheel
+    400118: Tank_wheel 1
+    400120: Tank_wheel 2
+    400122: Tank_wheel 3
+    400124: Tank_wheel1
+    400126: Tank_wheel1 1
+    400128: Tank_wheel1 2
+    400130: Tank_wheel1 3
+    400132: Tank_wheel2
+    400134: Tank_wheel2 1
+    400136: Tank_wheel2 2
+    400138: Tank_wheel2 3
+    400140: Tank_wheel3
+    400142: Tank_wheel3 1
+    400144: Tank_wheel3 2
+    400146: Tank_wheel3 3
+    400148: Tank_Wing
+    400150: Tank_Wing 1
+    400152: Tank_Wing 2
+    400154: Tank_Wing 3
+    400156: TankTower
+    2100000: blinn1
+    4300000: Tank_wheel2
+    4300002: Tank_chassis2
+    4300004: Tank_chassis
+    4300006: Tank_wheel
+    4300008: Tank_chassis1
+    4300010: Tank_chassis3
+    4300012: Tank_wheel3
+    4300014: Tank_Gun
+    4300016: Tank_headlights
+    4300018: Tank_Box
+    4300020: Tank_wheel1
+    4300022: Tank_Wing
+    4300024: Tank__Window
+    4300026: Tank_Head
+    4300028: Tank_Turbo
+    4300030: Tank_frame
+    4300032: Tank_wheel2
+    4300034: Tank_chassis2
+    4300036: Tank_chassis
+    4300038: Tank_wheel
+    4300040: Tank_chassis1
+    4300042: Tank_chassis3
+    4300044: Tank_wheel3
+    4300046: Tank_Gun
+    4300048: Tank_headlights
+    4300050: Tank_Box
+    4300052: Tank_wheel1
+    4300054: Tank_Wing
+    4300056: Tank__Window
+    4300058: Tank_Head
+    4300060: Tank_Turbo
+    4300062: Tank_frame
+    4300064: Tank_wheel2
+    4300066: Tank_chassis2
+    4300068: Tank_chassis
+    4300070: Tank_wheel
+    4300072: Tank_chassis1
+    4300074: Tank_chassis3
+    4300076: Tank_wheel3
+    4300078: Tank_Gun
+    4300080: Tank_headlights
+    4300082: Tank_Box
+    4300084: Tank_wheel1
+    4300086: Tank_Wing
+    4300088: Tank__Window
+    4300090: Tank_Head
+    4300092: Tank_Turbo
+    4300094: Tank_frame
+    4300096: Tank_wheel2
+    4300098: Tank_chassis2
+    4300100: Tank_chassis
+    4300102: Tank_wheel
+    4300104: Tank_chassis1
+    4300106: Tank_chassis3
+    4300108: Tank_wheel3
+    4300110: Tank_Gun
+    4300112: Tank_headlights
+    4300114: Tank_Box
+    4300116: Tank_wheel1
+    4300118: Tank_Wing
+    4300120: Tank__Window
+    4300122: Tank_Head
+    4300124: Tank_Turbo
+    4300126: Tank_frame
+    9500000: //RootNode
+    13700000: Tank__Window
+    13700002: Tank__Window 1
+    13700004: Tank__Window 2
+    13700006: Tank__Window 3
+    13700008: Tank_Box
+    13700010: Tank_Box 1
+    13700012: Tank_Box 2
+    13700014: Tank_Box 3
+    13700016: Tank_chassis
+    13700018: Tank_chassis 1
+    13700020: Tank_chassis 2
+    13700022: Tank_chassis 3
+    13700024: Tank_chassis1
+    13700026: Tank_chassis1 1
+    13700028: Tank_chassis1 2
+    13700030: Tank_chassis1 3
+    13700032: Tank_chassis2
+    13700034: Tank_chassis2 1
+    13700036: Tank_chassis2 2
+    13700038: Tank_chassis2 3
+    13700040: Tank_chassis3
+    13700042: Tank_chassis3 1
+    13700044: Tank_chassis3 2
+    13700046: Tank_chassis3 3
+    13700048: Tank_frame
+    13700050: Tank_frame 1
+    13700052: Tank_frame 2
+    13700054: Tank_frame 3
+    13700056: Tank_Gun
+    13700058: Tank_Gun 1
+    13700060: Tank_Gun 2
+    13700062: Tank_Gun 3
+    13700064: Tank_Head
+    13700066: Tank_Head 1
+    13700068: Tank_Head 2
+    13700070: Tank_Head 3
+    13700072: Tank_headlights
+    13700074: Tank_headlights 1
+    13700076: Tank_headlights 2
+    13700078: Tank_headlights 3
+    13700080: Tank_Turbo
+    13700082: Tank_Turbo 1
+    13700084: Tank_Turbo 2
+    13700086: Tank_Turbo 3
+    13700088: Tank_wheel
+    13700090: Tank_wheel 1
+    13700092: Tank_wheel 2
+    13700094: Tank_wheel 3
+    13700096: Tank_wheel1
+    13700098: Tank_wheel1 1
+    13700100: Tank_wheel1 2
+    13700102: Tank_wheel1 3
+    13700104: Tank_wheel2
+    13700106: Tank_wheel2 1
+    13700108: Tank_wheel2 2
+    13700110: Tank_wheel2 3
+    13700112: Tank_wheel3
+    13700114: Tank_wheel3 1
+    13700116: Tank_wheel3 2
+    13700118: Tank_wheel3 3
+    13700120: Tank_Wing
+    13700122: Tank_Wing 1
+    13700124: Tank_Wing 2
+    13700126: Tank_Wing 3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

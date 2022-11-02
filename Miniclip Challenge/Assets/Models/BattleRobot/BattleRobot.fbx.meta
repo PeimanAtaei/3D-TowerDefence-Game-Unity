@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 8deb8df468deff14092db25e4a8878f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: armor_L
+    100006: armor_R
+    100008: //RootNode
+    100010: BattleRobotArmor
+    100012: BattleRobotArmor 1
+    100014: BattleRobotArmor 2
+    100016: BattleRobotArmor 3
+    100018: BattleRobotBattleRobot_R_Light1_R_Light1
+    100020: BattleRobotBattleRobot_R_Light1_R_Light1 1
+    100022: BattleRobotBattleRobot_R_Light1_R_Light1 2
+    100024: BattleRobotBattleRobot_R_Light1_R_Light1 3
+    100026: BattleRobotL_Gun1
+    100028: BattleRobotL_Gun1 1
+    100030: BattleRobotL_Gun1 2
+    100032: BattleRobotL_Gun1 3
+    100034: BattleRobotL_Gun2
+    100036: BattleRobotL_Gun2 1
+    100038: BattleRobotL_Gun2 2
+    100040: BattleRobotL_Gun2 3
+    100042: BattleRobotL_Gun3
+    100044: BattleRobotL_Gun3 1
+    100046: BattleRobotL_Gun3 2
+    100048: BattleRobotL_Gun3 3
+    100050: BattleRobotL_Gun4
+    100052: BattleRobotL_Gun4 1
+    100054: BattleRobotL_Gun4 2
+    100056: BattleRobotL_Gun4 3
+    100058: BattleRobotL_Gun5
+    100060: BattleRobotL_Gun5 1
+    100062: BattleRobotL_Gun5 2
+    100064: BattleRobotL_Gun5 3
+    100066: BattleRobotL_Leg2
+    100068: BattleRobotL_Leg2 1
+    100070: BattleRobotL_Leg2 2
+    100072: BattleRobotL_Leg2 3
+    100074: BattleRobotL_Leg3
+    100076: BattleRobotL_Leg3 1
+    100078: BattleRobotL_Leg3 2
+    100080: BattleRobotL_Leg3 3
+    100082: BattleRobotpolySurface13
+    100084: BattleRobotpolySurface13 1
+    100086: BattleRobotpolySurface13 2
+    100088: BattleRobotpolySurface13 3
+    100090: BattleRobotpolySurface15
+    100092: BattleRobotpolySurface15 1
+    100094: BattleRobotpolySurface15 2
+    100096: BattleRobotpolySurface15 3
+    100098: BattleRobotpolySurface16
+    100100: BattleRobotpolySurface16 1
+    100102: BattleRobotpolySurface16 2
+    100104: BattleRobotpolySurface16 3
+    100106: BattleRobotpolySurface17
+    100108: BattleRobotpolySurface17 1
+    100110: BattleRobotpolySurface17 2
+    100112: BattleRobotpolySurface17 3
+    100114: BattleRobotpolySurface21
+    100116: BattleRobotpolySurface21 1
+    100118: BattleRobotpolySurface21 2
+    100120: BattleRobotpolySurface21 3
+    100122: BattleRobotpolySurface39
+    100124: BattleRobotpolySurface39 1
+    100126: BattleRobotpolySurface39 2
+    100128: BattleRobotpolySurface39 3
+    100130: BattleRobotpolySurface40
+    100132: BattleRobotpolySurface40 1
+    100134: BattleRobotpolySurface40 2
+    100136: BattleRobotpolySurface40 3
+    100138: BattleRobotpolySurface41
+    100140: BattleRobotpolySurface41 1
+    100142: BattleRobotpolySurface41 2
+    100144: BattleRobotpolySurface41 3
+    100146: BattleRobotpolySurface42
+    100148: BattleRobotpolySurface42 1
+    100150: BattleRobotpolySurface42 2
+    100152: BattleRobotpolySurface42 3
+    100154: BattleRobotpolySurface43
+    100156: BattleRobotpolySurface43 1
+    100158: BattleRobotpolySurface43 2
+    100160: BattleRobotpolySurface43 3
+    100162: BattleRobotpolySurface5
+    100164: BattleRobotpolySurface5 1
+    100166: BattleRobotpolySurface5 2
+    100168: BattleRobotpolySurface5 3
+    100170: BattleRobotpPipe3
+    100172: BattleRobotpPipe3 1
+    100174: BattleRobotpPipe3 2
+    100176: BattleRobotpPipe3 3
+    100178: BattleRobotR_Gun
+    100180: BattleRobotR_Gun 1
+    100182: BattleRobotR_Gun 2
+    100184: BattleRobotR_Gun 3
+    100186: BattleRobotR_Gun7
+    100188: BattleRobotR_Gun7 1
+    100190: BattleRobotR_Gun7 2
+    100192: BattleRobotR_Gun7 3
+    100194: BattleRobotRobotBodyPart2
+    100196: BattleRobotRobotBodyPart2 1
+    100198: BattleRobotRobotBodyPart2 2
+    100200: BattleRobotRobotBodyPart2 3
+    100202: BattleRobotRobotBodyPart3
+    100204: BattleRobotRobotBodyPart3 1
+    100206: BattleRobotRobotBodyPart3 2
+    100208: BattleRobotRobotBodyPart3 3
+    100210: Cabin_M
+    100212: cannon_barrel_L
+    100214: cannon_barrel_R
+    100216: Finger_01_L
+    100218: Finger_01_R
+    100220: Finger_02_L
+    100222: Finger_02_R
+    100224: Finger_03_L
+    100226: Finger_03_R
+    100228: Finger_04_L
+    100230: Finger_04_R
+    100232: Finger_05_L
+    100234: Finger_05_R
+    100236: Finger_06_L
+    100238: Finger_06_R
+    100240: gun_01_L
+    100242: gun_01_R
+    100244: gun_02_L
+    100246: gun_02_R
+    100248: Hip_01_L
+    100250: Hip_01_R
+    100252: Hip_02_L
+    100254: Hip_02_R
+    100256: Hip_03_L
+    100258: Hip_03_R
+    100260: Knee_L
+    100262: Knee_R
+    100264: LOD_0
+    100266: LOD_1
+    100268: LOD_2
+    100270: LOD_3
+    100272: LOD_Group_1
+    100274: polySurface22BattleRobot
+    100276: polySurface22BattleRobot 1
+    100278: polySurface22BattleRobot 2
+    100280: polySurface22BattleRobot 3
+    100282: root
+    100284: Root_M
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: armor_L
+    400006: armor_R
+    400008: //RootNode
+    400010: BattleRobotArmor
+    400012: BattleRobotArmor 1
+    400014: BattleRobotArmor 2
+    400016: BattleRobotArmor 3
+    400018: BattleRobotBattleRobot_R_Light1_R_Light1
+    400020: BattleRobotBattleRobot_R_Light1_R_Light1 1
+    400022: BattleRobotBattleRobot_R_Light1_R_Light1 2
+    400024: BattleRobotBattleRobot_R_Light1_R_Light1 3
+    400026: BattleRobotL_Gun1
+    400028: BattleRobotL_Gun1 1
+    400030: BattleRobotL_Gun1 2
+    400032: BattleRobotL_Gun1 3
+    400034: BattleRobotL_Gun2
+    400036: BattleRobotL_Gun2 1
+    400038: BattleRobotL_Gun2 2
+    400040: BattleRobotL_Gun2 3
+    400042: BattleRobotL_Gun3
+    400044: BattleRobotL_Gun3 1
+    400046: BattleRobotL_Gun3 2
+    400048: BattleRobotL_Gun3 3
+    400050: BattleRobotL_Gun4
+    400052: BattleRobotL_Gun4 1
+    400054: BattleRobotL_Gun4 2
+    400056: BattleRobotL_Gun4 3
+    400058: BattleRobotL_Gun5
+    400060: BattleRobotL_Gun5 1
+    400062: BattleRobotL_Gun5 2
+    400064: BattleRobotL_Gun5 3
+    400066: BattleRobotL_Leg2
+    400068: BattleRobotL_Leg2 1
+    400070: BattleRobotL_Leg2 2
+    400072: BattleRobotL_Leg2 3
+    400074: BattleRobotL_Leg3
+    400076: BattleRobotL_Leg3 1
+    400078: BattleRobotL_Leg3 2
+    400080: BattleRobotL_Leg3 3
+    400082: BattleRobotpolySurface13
+    400084: BattleRobotpolySurface13 1
+    400086: BattleRobotpolySurface13 2
+    400088: BattleRobotpolySurface13 3
+    400090: BattleRobotpolySurface15
+    400092: BattleRobotpolySurface15 1
+    400094: BattleRobotpolySurface15 2
+    400096: BattleRobotpolySurface15 3
+    400098: BattleRobotpolySurface16
+    400100: BattleRobotpolySurface16 1
+    400102: BattleRobotpolySurface16 2
+    400104: BattleRobotpolySurface16 3
+    400106: BattleRobotpolySurface17
+    400108: BattleRobotpolySurface17 1
+    400110: BattleRobotpolySurface17 2
+    400112: BattleRobotpolySurface17 3
+    400114: BattleRobotpolySurface21
+    400116: BattleRobotpolySurface21 1
+    400118: BattleRobotpolySurface21 2
+    400120: BattleRobotpolySurface21 3
+    400122: BattleRobotpolySurface39
+    400124: BattleRobotpolySurface39 1
+    400126: BattleRobotpolySurface39 2
+    400128: BattleRobotpolySurface39 3
+    400130: BattleRobotpolySurface40
+    400132: BattleRobotpolySurface40 1
+    400134: BattleRobotpolySurface40 2
+    400136: BattleRobotpolySurface40 3
+    400138: BattleRobotpolySurface41
+    400140: BattleRobotpolySurface41 1
+    400142: BattleRobotpolySurface41 2
+    400144: BattleRobotpolySurface41 3
+    400146: BattleRobotpolySurface42
+    400148: BattleRobotpolySurface42 1
+    400150: BattleRobotpolySurface42 2
+    400152: BattleRobotpolySurface42 3
+    400154: BattleRobotpolySurface43
+    400156: BattleRobotpolySurface43 1
+    400158: BattleRobotpolySurface43 2
+    400160: BattleRobotpolySurface43 3
+    400162: BattleRobotpolySurface5
+    400164: BattleRobotpolySurface5 1
+    400166: BattleRobotpolySurface5 2
+    400168: BattleRobotpolySurface5 3
+    400170: BattleRobotpPipe3
+    400172: BattleRobotpPipe3 1
+    400174: BattleRobotpPipe3 2
+    400176: BattleRobotpPipe3 3
+    400178: BattleRobotR_Gun
+    400180: BattleRobotR_Gun 1
+    400182: BattleRobotR_Gun 2
+    400184: BattleRobotR_Gun 3
+    400186: BattleRobotR_Gun7
+    400188: BattleRobotR_Gun7 1
+    400190: BattleRobotR_Gun7 2
+    400192: BattleRobotR_Gun7 3
+    400194: BattleRobotRobotBodyPart2
+    400196: BattleRobotRobotBodyPart2 1
+    400198: BattleRobotRobotBodyPart2 2
+    400200: BattleRobotRobotBodyPart2 3
+    400202: BattleRobotRobotBodyPart3
+    400204: BattleRobotRobotBodyPart3 1
+    400206: BattleRobotRobotBodyPart3 2
+    400208: BattleRobotRobotBodyPart3 3
+    400210: Cabin_M
+    400212: cannon_barrel_L
+    400214: cannon_barrel_R
+    400216: Finger_01_L
+    400218: Finger_01_R
+    400220: Finger_02_L
+    400222: Finger_02_R
+    400224: Finger_03_L
+    400226: Finger_03_R
+    400228: Finger_04_L
+    400230: Finger_04_R
+    400232: Finger_05_L
+    400234: Finger_05_R
+    400236: Finger_06_L
+    400238: Finger_06_R
+    400240: gun_01_L
+    400242: gun_01_R
+    400244: gun_02_L
+    400246: gun_02_R
+    400248: Hip_01_L
+    400250: Hip_01_R
+    400252: Hip_02_L
+    400254: Hip_02_R
+    400256: Hip_03_L
+    400258: Hip_03_R
+    400260: Knee_L
+    400262: Knee_R
+    400264: LOD_0
+    400266: LOD_1
+    400268: LOD_2
+    400270: LOD_3
+    400272: LOD_Group_1
+    400274: polySurface22BattleRobot
+    400276: polySurface22BattleRobot 1
+    400278: polySurface22BattleRobot 2
+    400280: polySurface22BattleRobot 3
+    400282: root
+    400284: Root_M
+    2100000: blinn1
+    4300000: BattleRobotL_Gun5
+    4300002: BattleRobotpolySurface43
+    4300004: BattleRobotpolySurface40
+    4300006: BattleRobotpolySurface42
+    4300008: BattleRobotpolySurface41
+    4300010: BattleRobotpolySurface39
+    4300012: BattleRobotL_Gun2
+    4300014: BattleRobotBattleRobot_R_Light1_R_Light1
+    4300016: BattleRobotArmor
+    4300018: BattleRobotRobotBodyPart2
+    4300020: BattleRobotR_Gun
+    4300022: BattleRobotL_Gun1
+    4300024: BattleRobotL_Gun4
+    4300026: BattleRobotR_Gun7
+    4300028: BattleRobotL_Gun3
+    4300030: BattleRobotL_Leg3
+    4300032: BattleRobotpolySurface13
+    4300034: BattleRobotL_Leg2
+    4300036: BattleRobotpolySurface15
+    4300038: BattleRobotpolySurface16
+    4300040: BattleRobotpolySurface21
+    4300042: BattleRobotpolySurface5
+    4300044: BattleRobotpPipe3
+    4300046: BattleRobotRobotBodyPart3
+    4300048: BattleRobotpolySurface17
+    4300050: polySurface22BattleRobot
+    4300052: BattleRobotL_Gun5
+    4300054: BattleRobotpolySurface43
+    4300056: BattleRobotpolySurface40
+    4300058: BattleRobotpolySurface42
+    4300060: BattleRobotpolySurface41
+    4300062: BattleRobotpolySurface39
+    4300064: BattleRobotL_Gun2
+    4300066: BattleRobotBattleRobot_R_Light1_R_Light1
+    4300068: BattleRobotArmor
+    4300070: BattleRobotRobotBodyPart2
+    4300072: BattleRobotR_Gun
+    4300074: BattleRobotL_Gun1
+    4300076: BattleRobotL_Gun4
+    4300078: BattleRobotR_Gun7
+    4300080: BattleRobotL_Gun3
+    4300082: BattleRobotL_Leg3
+    4300084: BattleRobotpolySurface13
+    4300086: BattleRobotL_Leg2
+    4300088: BattleRobotpolySurface15
+    4300090: BattleRobotpolySurface16
+    4300092: BattleRobotpolySurface21
+    4300094: BattleRobotpolySurface5
+    4300096: BattleRobotpPipe3
+    4300098: BattleRobotRobotBodyPart3
+    4300100: BattleRobotpolySurface17
+    4300102: polySurface22BattleRobot
+    4300104: BattleRobotL_Gun5
+    4300106: BattleRobotpolySurface43
+    4300108: BattleRobotpolySurface40
+    4300110: BattleRobotpolySurface42
+    4300112: BattleRobotpolySurface41
+    4300114: BattleRobotpolySurface39
+    4300116: BattleRobotL_Gun2
+    4300118: BattleRobotBattleRobot_R_Light1_R_Light1
+    4300120: BattleRobotArmor
+    4300122: BattleRobotRobotBodyPart2
+    4300124: BattleRobotR_Gun
+    4300126: BattleRobotL_Gun1
+    4300128: BattleRobotL_Gun4
+    4300130: BattleRobotR_Gun7
+    4300132: BattleRobotL_Gun3
+    4300134: BattleRobotL_Leg3
+    4300136: BattleRobotpolySurface13
+    4300138: BattleRobotL_Leg2
+    4300140: BattleRobotpolySurface15
+    4300142: BattleRobotpolySurface16
+    4300144: BattleRobotpolySurface21
+    4300146: BattleRobotpolySurface5
+    4300148: BattleRobotpPipe3
+    4300150: BattleRobotRobotBodyPart3
+    4300152: BattleRobotpolySurface17
+    4300154: polySurface22BattleRobot
+    4300156: BattleRobotL_Gun5
+    4300158: BattleRobotpolySurface43
+    4300160: BattleRobotpolySurface40
+    4300162: BattleRobotpolySurface42
+    4300164: BattleRobotpolySurface41
+    4300166: BattleRobotpolySurface39
+    4300168: BattleRobotL_Gun2
+    4300170: BattleRobotBattleRobot_R_Light1_R_Light1
+    4300172: BattleRobotArmor
+    4300174: BattleRobotRobotBodyPart2
+    4300176: BattleRobotR_Gun
+    4300178: BattleRobotL_Gun1
+    4300180: BattleRobotL_Gun4
+    4300182: BattleRobotR_Gun7
+    4300184: BattleRobotL_Gun3
+    4300186: BattleRobotL_Leg3
+    4300188: BattleRobotpolySurface13
+    4300190: BattleRobotL_Leg2
+    4300192: BattleRobotpolySurface15
+    4300194: BattleRobotpolySurface16
+    4300196: BattleRobotpolySurface21
+    4300198: BattleRobotpolySurface5
+    4300200: BattleRobotpPipe3
+    4300202: BattleRobotRobotBodyPart3
+    4300204: BattleRobotpolySurface17
+    4300206: polySurface22BattleRobot
+    9500000: //RootNode
+    13700000: BattleRobotArmor
+    13700002: BattleRobotArmor 1
+    13700004: BattleRobotArmor 2
+    13700006: BattleRobotArmor 3
+    13700008: BattleRobotBattleRobot_R_Light1_R_Light1
+    13700010: BattleRobotBattleRobot_R_Light1_R_Light1 1
+    13700012: BattleRobotBattleRobot_R_Light1_R_Light1 2
+    13700014: BattleRobotBattleRobot_R_Light1_R_Light1 3
+    13700016: BattleRobotL_Gun1
+    13700018: BattleRobotL_Gun1 1
+    13700020: BattleRobotL_Gun1 2
+    13700022: BattleRobotL_Gun1 3
+    13700024: BattleRobotL_Gun2
+    13700026: BattleRobotL_Gun2 1
+    13700028: BattleRobotL_Gun2 2
+    13700030: BattleRobotL_Gun2 3
+    13700032: BattleRobotL_Gun3
+    13700034: BattleRobotL_Gun3 1
+    13700036: BattleRobotL_Gun3 2
+    13700038: BattleRobotL_Gun3 3
+    13700040: BattleRobotL_Gun4
+    13700042: BattleRobotL_Gun4 1
+    13700044: BattleRobotL_Gun4 2
+    13700046: BattleRobotL_Gun4 3
+    13700048: BattleRobotL_Gun5
+    13700050: BattleRobotL_Gun5 1
+    13700052: BattleRobotL_Gun5 2
+    13700054: BattleRobotL_Gun5 3
+    13700056: BattleRobotL_Leg2
+    13700058: BattleRobotL_Leg2 1
+    13700060: BattleRobotL_Leg2 2
+    13700062: BattleRobotL_Leg2 3
+    13700064: BattleRobotL_Leg3
+    13700066: BattleRobotL_Leg3 1
+    13700068: BattleRobotL_Leg3 2
+    13700070: BattleRobotL_Leg3 3
+    13700072: BattleRobotpolySurface13
+    13700074: BattleRobotpolySurface13 1
+    13700076: BattleRobotpolySurface13 2
+    13700078: BattleRobotpolySurface13 3
+    13700080: BattleRobotpolySurface15
+    13700082: BattleRobotpolySurface15 1
+    13700084: BattleRobotpolySurface15 2
+    13700086: BattleRobotpolySurface15 3
+    13700088: BattleRobotpolySurface16
+    13700090: BattleRobotpolySurface16 1
+    13700092: BattleRobotpolySurface16 2
+    13700094: BattleRobotpolySurface16 3
+    13700096: BattleRobotpolySurface17
+    13700098: BattleRobotpolySurface17 1
+    13700100: BattleRobotpolySurface17 2
+    13700102: BattleRobotpolySurface17 3
+    13700104: BattleRobotpolySurface21
+    13700106: BattleRobotpolySurface21 1
+    13700108: BattleRobotpolySurface21 2
+    13700110: BattleRobotpolySurface21 3
+    13700112: BattleRobotpolySurface39
+    13700114: BattleRobotpolySurface39 1
+    13700116: BattleRobotpolySurface39 2
+    13700118: BattleRobotpolySurface39 3
+    13700120: BattleRobotpolySurface40
+    13700122: BattleRobotpolySurface40 1
+    13700124: BattleRobotpolySurface40 2
+    13700126: BattleRobotpolySurface40 3
+    13700128: BattleRobotpolySurface41
+    13700130: BattleRobotpolySurface41 1
+    13700132: BattleRobotpolySurface41 2
+    13700134: BattleRobotpolySurface41 3
+    13700136: BattleRobotpolySurface42
+    13700138: BattleRobotpolySurface42 1
+    13700140: BattleRobotpolySurface42 2
+    13700142: BattleRobotpolySurface42 3
+    13700144: BattleRobotpolySurface43
+    13700146: BattleRobotpolySurface43 1
+    13700148: BattleRobotpolySurface43 2
+    13700150: BattleRobotpolySurface43 3
+    13700152: BattleRobotpolySurface5
+    13700154: BattleRobotpolySurface5 1
+    13700156: BattleRobotpolySurface5 2
+    13700158: BattleRobotpolySurface5 3
+    13700160: BattleRobotpPipe3
+    13700162: BattleRobotpPipe3 1
+    13700164: BattleRobotpPipe3 2
+    13700166: BattleRobotpPipe3 3
+    13700168: BattleRobotR_Gun
+    13700170: BattleRobotR_Gun 1
+    13700172: BattleRobotR_Gun 2
+    13700174: BattleRobotR_Gun 3
+    13700176: BattleRobotR_Gun7
+    13700178: BattleRobotR_Gun7 1
+    13700180: BattleRobotR_Gun7 2
+    13700182: BattleRobotR_Gun7 3
+    13700184: BattleRobotRobotBodyPart2
+    13700186: BattleRobotRobotBodyPart2 1
+    13700188: BattleRobotRobotBodyPart2 2
+    13700190: BattleRobotRobotBodyPart2 3
+    13700192: BattleRobotRobotBodyPart3
+    13700194: BattleRobotRobotBodyPart3 1
+    13700196: BattleRobotRobotBodyPart3 2
+    13700198: BattleRobotRobotBodyPart3 3
+    13700200: polySurface22BattleRobot
+    13700202: polySurface22BattleRobot 1
+    13700204: polySurface22BattleRobot 2
+    13700206: polySurface22BattleRobot 3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
